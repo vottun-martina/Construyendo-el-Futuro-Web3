@@ -2,6 +2,7 @@
 Vottun.com organiza su primer Web3 Hackathon de la mano de DEXTools.io  Vottun.com, compañía líder en el desarrollo de APIs para Web3 se une a DEXTools.io para realizar su primer Web3 Hackathon. 
 
 ¿Dónde y Cuándo?
+
 📅 Fecha: 27 y 28 de enero de 2024
 ⏰ Horario: Desde las 8:30hr. del sábado hasta las 18:00hr. del domingo
 📍 Lugar: 42 Fundación Telefónica Madrid
